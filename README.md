@@ -1,6 +1,4 @@
 # hello-github
-A greeting
-I'm currently learning HTML and CSS for creating business or blog websites.
-Thanks to freecodecamp.org.
-I can do some Python coding.
+I'm currently learning HTML and CSS for creating business or blog websites with freecodecamp. I have some background in Python from my programming class in college. 
+I'd love to discuss with you other learning resources. 
 I'm excited to collaborate with everyone.
